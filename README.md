@@ -190,5 +190,5 @@ try {
 
 ## Pembuat
 
-Nama: Muhammad Edya Rosadi
-NPM: 2110010001
+Nama: Ramzy Hanansyah Putera
+NPM: 2310010316
